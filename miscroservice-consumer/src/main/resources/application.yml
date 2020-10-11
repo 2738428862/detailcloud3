@@ -1,5 +1,0 @@
-server:
-  port: 9999
-logging:
-  level:
-    com.yc.springcloud812: debug
